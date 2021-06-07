@@ -1,4 +1,4 @@
-# DEPTH,DISPARITY MAPS and VIRTUAL DRAWING PAD
+## DEPTH,DISPARITY MAPS and VIRTUAL DRAWING PAD
 
 A depth map is very similar to the heat map that we often see 
 
@@ -22,5 +22,8 @@ Depth Map:
 
 <img src ="https://user-images.githubusercontent.com/64783286/120323868-965e1b00-c303-11eb-9660-d399a7ee2cb6.png" width="250" height="250" />
 
+# VIRTUAL DRAWING PAD:
+Virtual darwing pad uses an object preferrably sysmtrric and small like bottle or pen cap and tracks it and draws these tracks on a window
 
+It does this by eleminating the backgraound and drwaing a contour around this object and tracks it centre or centroid
 
